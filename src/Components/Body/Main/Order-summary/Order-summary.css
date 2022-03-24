@@ -1,0 +1,32 @@
+.order-summary{
+    background: rgba(255, 153, 0, 0.3);
+    position: sticky;
+    top: 0;
+    height: 100vh;
+  
+}
+.heading{
+    padding-top: 28px;
+    text-align: center;
+    font-size: 25px;
+}
+.summary-info{
+    margin: 10px 0;
+    line-height: 27px;
+    margin-left: 20px;
+}
+.summary-info p{
+    color: #2A414F;
+    font-size: 17px;
+   padding-top:25px ;
+}
+.grand-total{
+    margin-top: 15px;
+    font-size: 21px;
+}
+.clear{
+    background: #000;
+}
+.btn{
+
+}
